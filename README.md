@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, Java, SpringBoot**
+- 💬 Ask me about **Python, Django, Django Rest Framework, postgresSQL, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
