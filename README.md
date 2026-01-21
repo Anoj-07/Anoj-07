@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoj-07" alt="anoj-07" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working As **Backend Developer**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django RestFrame Work, Data Bases**
 
 - 💬 Ask me about **Python, Django, Django Rest Framework, postgresSQL, Java**
 
